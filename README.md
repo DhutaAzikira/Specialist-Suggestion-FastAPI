@@ -22,7 +22,7 @@ This is a minimal FastAPI service that uses **Gemini Pro (via Google Generative 
 
 ## 🔧 Installation
 
-```bash
+
 git clone https://github.com/DhutaAzikira/Specialist-Suggestion-FastAPI.git  # or unzip the folder
 cd triage_llm
 
