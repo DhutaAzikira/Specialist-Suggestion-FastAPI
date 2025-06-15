@@ -31,13 +31,16 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
+```
 pip install -r requirements.txt
-🔑 Setup
-Create a .env file with your Google API key:
+```
 
+#🔑 Setup
+Create a .env file with your Google API key:
 ```env
 GOOGLE_API_KEY=your-gemini-api-key-here
 ```
+
 ▶️ Run the App
 ```
 uvicorn main:app --reload
