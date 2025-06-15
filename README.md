@@ -65,8 +65,6 @@ Sample Response:
 ```
 #📁 Project Structure
 ```
-Copy
-Edit
 triage_llm/
 ├── main.py                # FastAPI logic
 ├── llm_agent.py           # Gemini prompt logic
